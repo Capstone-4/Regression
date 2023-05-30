@@ -1,8 +1,9 @@
 # Regression
 
-Modeling part progress: 20%
+Modeling part progress: 70%
 
-1. Linear Regression Model(or SVR)
-2. Tuning
-3. Logistic Regression Model(or DL Logistic Regression)
+1. XGBoost Model with CV grid search (80%)
+2. Add sector column in building data with distance (40%)
+3. DL Logistic Regression (50%)
 4. Tuning
+5. 
